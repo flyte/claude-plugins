@@ -21,3 +21,4 @@ In any Claude Code session:
 | Plugin | Description |
 |---|---|
 | [`claude-code-quiz-master`](https://github.com/flyte/claude-code-quiz-master) | Quiz the user on their own codebase to counter agentic context loss. |
+| [`claude-code-guided-tour`](https://github.com/flyte/claude-code-guided-tour) | Interactive guided tour that teaches you an unfamiliar codebase. Partner to the quiz master. |

@@ -14,6 +14,15 @@
         "url": "https://github.com/flyte/claude-code-quiz-master.git"
       },
       "homepage": "https://github.com/flyte/claude-code-quiz-master"
+    },
+    {
+      "name": "claude-code-guided-tour",
+      "description": "Teach yourself (or an agent) an unfamiliar codebase via an interactive, subagent-explored guided tour. Partner to claude-code-quiz-master.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/flyte/claude-code-guided-tour.git"
+      },
+      "homepage": "https://github.com/flyte/claude-code-guided-tour"
     }
   ]
 }
